@@ -1,13 +1,13 @@
 Summary:	MeCab module for Ruby
 Summary(pl.UTF-8):	Moduł MeCab dla języka Ruby
 Name:		ruby-mecab
-Version:	0.994
+Version:	0.995
 Release:	1
 License:	GPL v2 or LGPL v2.1 or BSD
 Group:		Development/Languages
 #Source0Download: http://code.google.com/p/mecab/downloads/list
 Source0:	http://mecab.googlecode.com/files/mecab-ruby-%{version}.tar.gz
-# Source0-md5:	9cc029fb016aeb6e13cd2fbfcf2b24e6
+# Source0-md5:	5f6fe875e645ff7f08ebcb76f1e6c3bf
 URL:		http://code.google.com/p/mecab/
 BuildRequires:	libstdc++-devel
 BuildRequires:	mecab-devel
